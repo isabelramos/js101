@@ -37,12 +37,11 @@ HTML, Javascript.
 
 ```
 git clone https://github.com/isabelramos/js101.git
-cd isabelramos -> js101
+cd js101
 npm install http-server -g
 http-server -p 8080
 This will show in your browser at: http://localhost:8080
 ```
-This will show in your browser at: `http://localhost:8080`
 
 ### Contributors:
 [Isabel Ramos](https://github.com/isabelramos)
